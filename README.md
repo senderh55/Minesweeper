@@ -1,5 +1,5 @@
 # Minesweeper
-As part of my Java course at collage, I implemented the Minesweeper game
+As part of my Java course at college, I implemented the Minesweeper game
 
 
 * Mines.java includes creation of game board (matrix allocation), mines, toggle flags and the game logic (winning chacking, etc.)
