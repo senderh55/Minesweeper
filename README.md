@@ -10,3 +10,4 @@ As part of my Java course at collage, I implemented the Minesweeper game
 
 * Main.java creating the visual part (created by scene builder) and initializing the controller.
 
+## Preview
