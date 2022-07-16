@@ -11,3 +11,4 @@ As part of my Java course at college, I implemented the Minesweeper game
 * Main.java creating the visual part (created by scene builder) and initializing the controller.
 
 ## Preview
+![](https://github.com/senderh55/Minesweeper/mine.gif)
